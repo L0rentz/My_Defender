@@ -6,7 +6,7 @@ Game made with Marton Szuts in 5 weeks.
 
 Here you can find the video of the end result of this project :
 
-[![](http://img.youtube.com/vi/_oOO-t6krrw/0.jpg)](https://www.youtube.com/watch?v=_oOO-t6krrw&t=24s "Defender")
+[![](http://img.youtube.com/vi/_oOO-t6krrw/0.jpg)](https://www.youtube.com/watch?v=_oOO-t6krrw&t "Defender")
 
 ## Usage
 
