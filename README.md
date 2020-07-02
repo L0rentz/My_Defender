@@ -43,7 +43,7 @@ Some maps are really hard to complete.
   
 ## Features
 
-<------------------------- Menu and interface ------------------------->  
+### Menus and interfaces
   
 - A menu with sliding buttons on the right side.  
 - An oportunity to continue the current game after getting back to the menu.  
@@ -55,7 +55,7 @@ Some maps are really hard to complete.
 - A custom map editor where you'll have a graphical interface to build your own maps.  
 - A statistics menu.  
   
-<------------------------- Custom map editor ------------------------->  
+### Custom map editor
   
 To build a map you'll need to respect these 2 rules:  
   
@@ -66,7 +66,7 @@ To place a tile first clic on a square and then chose the type of tile you want 
 The four type of tiles you can place are displayed on the right side.  
 Thanks to the editor you'll be able to undo, reset and save your maps.  
 
-<------------------------------ In game ------------------------------>  
+### In game
   
 - The ability to clic and select all the map tiles to get information.  
 
@@ -89,8 +89,6 @@ If a turret reaches level 3 you'll be able to chose a special ability for you tu
   
 ## Controls
 
-LEFT ARROW To turn down the sound.  
-RIGHT ARROW To turn up the sound.  
 ESCAPE To pause the game.  
 MOUSE LEFT CLIC To everything else.  
   
